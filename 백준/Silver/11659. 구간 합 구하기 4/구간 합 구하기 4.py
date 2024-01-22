@@ -1,15 +1,13 @@
 import sys
+
 input = sys.stdin.readline
 
-N, M = map(int, input().split())
-arr = [0] + list(map(int, input().split()))
+N, K = map(int, input().split())
+data = list(map(int, input().split()))
+li = [0]
+for i in data:
+    li.append(li[-1] + i)
 
-sum_arr = []
-temp = 0
-for a in arr:
-    temp += a
-    sum_arr.append(temp)
-
-for _ in range(M):
-    i, j = map(int, input().split())
-    print(sum_arr[j] - sum_arr[i-1])
+for _ in range(K):
+    i,j = map(int, input().split())
+    print(li[j] - li[i-1])
