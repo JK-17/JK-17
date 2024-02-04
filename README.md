@@ -52,8 +52,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <div align= "center">
-<img src="https://github-readme-stats.vercel.app/api?username=JK-17&custom_title=JK-17's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        />
+    <img src="https://github-readme-stats.vercel.app/api?username=JK-17&custom_title=JK-17's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JK-17&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
 
