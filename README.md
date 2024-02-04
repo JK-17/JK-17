@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duftlagltkfwk)](https://solved.ac/duftlagltkfwk/)
 
 # Contact
- <div align= "center"> <a href="jk25.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=jk25.tistory.com"> </a>
+ <div align= "center"> <a href="https://jk25.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=jk25.tistory.com"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
          <a href=mailto:johnkang5795@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:johnkang5795@gmail.com"> </a>
           </div>  <br> 
